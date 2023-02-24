@@ -1,0 +1,3 @@
+Recorded test payload to test decoder:
+
+CC4F02350343017FFF7FFF
